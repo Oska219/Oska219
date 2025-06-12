@@ -31,11 +31,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🔥 About Me
-<!--
-- 🔭 I’m currently working on **[uihik](bjmn)**  -->
+
 - 🌱 I’m currently learning **Java**
-<!--
-- 👯 I’m looking to collaborate on **[hjbk](nm)** -->
 - 📫 Reach me at: **osada.suraweeera@gmail.com**
 
 ---
